@@ -4,6 +4,12 @@ A simple and interactive **Telegram bot** that **encrypts text into Morse code**
 
 ---
 
+## 🔗 Telegram Bot Link
+
+👉 **Try the bot on Telegram:** [https://t.me/MorseCoderGenBot](https://t.me/MorseCoderGenBot)
+
+---
+
 ## ✨ Features
 
 * 🔐 Text ➜ Morse code encryption
@@ -198,5 +204,9 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 ```
+
+---
+
+⭐ If you like this project, don’t forget to **star the repo**!
